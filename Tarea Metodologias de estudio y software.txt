@@ -19,3 +19,12 @@ Motivacion: Creo que es lo que necesitas para empezar cualquier carrera o proyec
 Aprendizaje: Otro aspecto fundamental seria el aprendizaje que utilizamos tanto para aprender lo teorico o lo practico. El aprendizaje esta muy relacionado a la memoria y la repeticion la cual vamos a emplear para aprender a usar las herramientas que nos den en la carrera.
 
 Planificacion: La planificacion es muy importante ya que va a determinar los pasos que podemos seguir para conseguir una meta. Dentro de ella podria agregar que el orden y la organizacion son fundamentales para cumplir al pie de la letra tu plan.
+
+Comandos en GIT:
+
+git init
+git remote add origin https://github.com/tobiascrocus/Metodologias-de-estudio-y-software
+git add .
+git commit
+git status
+git push origin main
